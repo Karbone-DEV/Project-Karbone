@@ -1,10 +1,10 @@
 [
     {
-        "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1047549513038049382/image.png",
-        "logo": "https://koya.gg/_next/image?url=https%3A%2F%2Fcdn.koya.gg%2Futilities%2Favatar.png&w=128&q=75",
-        "title": "Koya",
-        "text": "A powerful multi-function and configurable Discord bot.",
-        "link": "https://koya.gg"
+        "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1047559461050519663/image.png",
+        "logo": "https://cdn.discordapp.com/avatars/718123843805511750/48b40d1bd88030cad43f3e2844352c2e.png?size=256",
+        "title": "Izuyu",
+        "text": "A Radio and Music Bot.",
+        "link": "https://discord.com/oauth2/authorize?client_id=718123843805511750&scope=bot&permissions=3148936"
     },
     {
         "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1047550843827802182/image.png",
@@ -14,24 +14,10 @@
         "link": "https://discord.com/oauth2/authorize?client_id=1044975675355955232&scope=bot"
     },
     {
-        "image": "https://i.ibb.co/1RkZ9rV/resim.png",
-        "logo": "https://i.ibb.co/Gx3K97W/giftixlogo.png",
-        "title": "AwardBot",
-        "text": "Open Source. The most advanced Discord giveaway bot. Giveaway requirements, boost system and more!",
-        "link": "https://github.com/helloaward"
-    },
-    {
         "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1047557026819096627/Capture_2.png",
         "logo": "https://cdn.discordapp.com/attachments/1046903573675511829/1047557917005590578/steam.png",
         "title": "Steam Achievement",
         "text": "A Idle Steam Achievement Farmer!",
         "link": "https://github.com/Karbone-DEV/SteamAchievementSpammer"
-    },
-    {
-        "image": "https://cdn.discordapp.com/attachments/915331943875358731/962050065470459974/unknown.png",
-        "logo": "https://avatars.githubusercontent.com/u/103275381?s=400&u=c3a74a230d0bfa6d30ebee09ffbb76ef4291a42e&v=4",
-        "title": "Templatet",
-        "text": "Templatet is an open source project with templates that you can use.",
-        "link": "https://github.com/templatet/"
     }
 ]
