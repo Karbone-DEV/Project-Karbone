@@ -1,17 +1,17 @@
 [
     {
-        "image": "https://i.ibb.co/2WdcqRJ/image.png",
-        "logo": "https://i.ibb.co/0CQxqwv/dp.png",
-        "title": "Dark",
-        "text": "Experience the advanced Discord, find your server partner now and watch you grow.",
-        "link": "https://partnerbot.xyz"
+        "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1047549513038049382/image.png",
+        "logo": "https://koya.gg/_next/image?url=https%3A%2F%2Fcdn.koya.gg%2Futilities%2Favatar.png&w=128&q=75",
+        "title": "Koya",
+        "text": "A powerful multi-function and configurable Discord bot.",
+        "link": "https://koya.gg"
     },
     {
-        "image": "https://i.ibb.co/vZYPYpZ/image.png",
-        "logo": "https://i.ibb.co/8bx3G61/image.png",
-        "title": "Daisy",
-        "text": "Are you ready to explore the economy? Crypto, NFT, corporations and more.",
-        "link": "https://daisybot.tech"
+        "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1047550843827802182/image.png",
+        "logo": "https://cdn.discordapp.com/attachments/1046903573675511829/1047550143743938610/namic.png",
+        "title": "Namic",
+        "text": "A Discord Music bot compatible with Spotify and YouTube !",
+        "link": "https://discord.com/oauth2/authorize?client_id=1044975675355955232&scope=bot"
     },
     {
         "image": "https://i.ibb.co/1RkZ9rV/resim.png",
@@ -33,12 +33,5 @@
         "title": "Templatet",
         "text": "Templatet is an open source project with templates that you can use.",
         "link": "https://github.com/templatet/"
-    },
-    {
-        "image": "https://i.ibb.co/hZXc0p0/seritybanner.png",
-        "logo": "https://cdn.discordapp.com/icons/701153938870894673/a567eb70003eb1c502894ac4408d5547.png?size=4096",
-        "title": "Serity",
-        "text": "Create your own unique website with Serity! Licensed and easy-to-install products!",
-        "link": "https://serity.me"
     }
 ]
