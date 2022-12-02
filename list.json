@@ -1,17 +1,24 @@
 [
     {
-        "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1047559461050519663/image.png",
-        "logo": "https://cdn.discordapp.com/avatars/718123843805511750/48b40d1bd88030cad43f3e2844352c2e.png?size=256",
-        "title": "Izuyu",
-        "text": "A Radio and Music Bot.",
-        "link": "https://discord.com/oauth2/authorize?client_id=718123843805511750&scope=bot&permissions=3148936"
-    },
-    {
         "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1047550843827802182/image.png",
         "logo": "https://cdn.discordapp.com/attachments/1046903573675511829/1047550143743938610/namic.png",
         "title": "Namic",
         "text": "A Discord Music bot compatible with Spotify and YouTube !",
         "link": "https://discord.com/oauth2/authorize?client_id=1044975675355955232&scope=bot"
+    },
+    {
+        "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1048227519129731152/IMG_7617.png",
+        "logo": "https://cdn.discordapp.com/avatars/1047636526533709845/f09d06d29727497e0b530a12e1f14b7e.png?size=256",
+        "title": "Lofiiz",
+        "text": "A Discord Radio bot with more than 34k of Radios",
+        "link": "https://discord.com/api/oauth2/authorize?client_id=1047636526533709845&permissions=2150696960&scope=applications.commands%20bot"
+    },
+    {
+        "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1047559461050519663/image.png",
+        "logo": "https://cdn.discordapp.com/avatars/718123843805511750/48b40d1bd88030cad43f3e2844352c2e.png?size=256",
+        "title": "Izuyu",
+        "text": "A Radio and Music Bot.",
+        "link": "https://discord.com/oauth2/authorize?client_id=718123843805511750&scope=bot&permissions=3148936"
     },
     {
         "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1047557026819096627/Capture_2.png",
@@ -26,12 +33,5 @@
         "title": "Softky.eu",
         "text": "100% Free NodeJS/Python Host",
         "link": "https://discord.gg/Uk78UGnKbZ"
-    },
-    {
-        "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1048227519129731152/IMG_7617.png",
-        "logo": "https://cdn.discordapp.com/avatars/1047636526533709845/f09d06d29727497e0b530a12e1f14b7e.png?size=256",
-        "title": "Lofiiz",
-        "text": "A Discord Radio bot with more than 34k of Radios",
-        "link": "https://discord.com/api/oauth2/authorize?client_id=1047636526533709845&permissions=2150696960&scope=applications.commands%20bot"
     }
 ]
