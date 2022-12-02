@@ -26,5 +26,12 @@
         "title": "Softky.eu",
         "text": "100% Free NodeJS/Python Host",
         "link": "https://discord.gg/Uk78UGnKbZ"
+    },
+    {
+        "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1048227519129731152/IMG_7617.png",
+        "logo": "https://cdn.discordapp.com/avatars/1047636526533709845/f09d06d29727497e0b530a12e1f14b7e.png?size=256",
+        "title": "Lofiiz",
+        "text": "A Discord Radio bot with more than 34k of Radios",
+        "link": "https://discord.com/api/oauth2/authorize?client_id=1047636526533709845&permissions=2150696960&scope=applications.commands%20bot"
     }
 ]
