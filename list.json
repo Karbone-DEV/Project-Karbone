@@ -1,17 +1,9 @@
-[
-    {
-        "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1047550843827802182/image.png",
-        "logo": "https://cdn.discordapp.com/attachments/1046903573675511829/1047550143743938610/namic.png",
-        "title": "Namic",
-        "text": "A Discord Music bot compatible with Spotify and YouTube !",
-        "link": "https://discord.com/oauth2/authorize?client_id=1044975675355955232&scope=bot"
-    },
     {
         "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1051251412002152448/image.png",
         "logo": "https://cdn.discordapp.com/attachments/1046903573675511829/1048987049593667594/Lofii.png",
         "title": "Lofii",
         "text": "A Discord Radio bot with more than 30k of Radios",
-        "link": "https://discord.com/api/oauth2/authorize?client_id=1047636526533709845&permissions=2150696960&scope=applications.commands%20bot"
+        "link": "https://discord.com/api/oauth2/authorize?client_id=1044975675355955232&permissions=549759044736&scope=bot%20applications.commands"
     },
     {
         "image": "https://cdn.discordapp.com/attachments/1046903573675511829/1051251220959989930/image.png",
